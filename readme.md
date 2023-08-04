@@ -2,7 +2,7 @@
 This is the repository for TurboSVM-FL.
 
 ## Teaser
-<img src="https://github.com/wmd0701/TurboSVM-FL/assets/34072813/d40ea56b-faa0-4111-b5d7-eb0257da57c5" width="700">
+![teaser](https://github.com/ConcealedIDentity/TurboSVM-FL/assets/141405318/fab451e1-257d-4ae5-ad5a-73da1601f637)
 
 ## Usage
 run `main_non_FL.py` for centralized learning.
