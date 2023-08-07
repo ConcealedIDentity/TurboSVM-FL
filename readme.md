@@ -1,8 +1,9 @@
 # TurboSVM-FL
-This is the repository for TurboSVM-FL.
+This is the repository for TurboSVM-FL. This GitHub repository is anonymized for review.
 
 ## Teaser
-![teaser](https://github.com/ConcealedIDentity/TurboSVM-FL/assets/141405318/fab451e1-257d-4ae5-ad5a-73da1601f637)
+![teaser](https://github.com/ConcealedIDentity/TurboSVM-FL/assets/141405318/066c9545-90d7-4643-91e1-c9e6cfbef11b)
+
 
 ## Usage
 run `main_non_FL.py` for centralized learning.
